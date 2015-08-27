@@ -1,0 +1,17 @@
+C:\Users\Steve\Documents\Visual Studio 2008\Projects\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sf10\Desktop\ICGGSAssignment\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sf10\Desktop\Work\ICGGS\ICGGSAssignment\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\d005578a\Desktop\ICGGSAssignment 2010 (1)\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ICGGSAssignment 2010\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ICGGSAssignment 2010\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ICGGSAssignment 2010\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ICGGSAssignment 2010\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ICGGSAssignment 2010\Development\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\Development\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ICGGSAssignment 2010\Stable\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ICGGSAssignment 2010\Development\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\ICGGSAssignment 2010\Development\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\d005578a\Desktop\Development\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ICGGSAssignment 2010\Stable\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\Stable\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\UNI\semester1\ICGGSAssignment 2010\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
